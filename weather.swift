@@ -12,7 +12,7 @@ class 😂 {
 }
 
 
-var 😁 = 😂()
+let 😁 = 😂()
 
 😁.🌍("mannerhemintie 4", "helsinki")
 

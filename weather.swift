@@ -1,16 +1,18 @@
 
+import UIKit
+
 class 😂 {
 
     func 🌍(👻: String!, 🎎: String!)  -> String! {
 
-        let 😇 = ["☀️","💧","🌞","🌝"]
+        let 😇 = ["🌕","💧","🌞","🌝"]
         return 😇[Int(arc4random_uniform(4))]
 
     }
 }
 
 
-var 🇫🇮 = 😂()
+var 😁 = 😂()
 
-🇫🇮.🌍("mannerhemintie 4", "helsinki")
+😁.🌍("mannerhemintie 4", "helsinki")
 
